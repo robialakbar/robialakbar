@@ -42,7 +42,7 @@
 
 <br />
 <br />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📺 Latest YouTube Videos
@@ -72,7 +72,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   <summary>:zap: GitHub Stats</summary>

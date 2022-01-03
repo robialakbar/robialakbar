@@ -85,12 +85,12 @@
 
 </details>
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robialakbar&show_icons=true&theme=radical)
 
-</details>
+
 
 [website]: https://robialakbar.com
 [course]: http://robialakbar.com

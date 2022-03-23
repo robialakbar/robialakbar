@@ -5,11 +5,10 @@
 
 ## Saya adalah seorang Professional Programmer, Youtuber and Technocrate!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to coding and Investment and Money
+- 🌱 Saat ini saya sedang mempelajari semuanya 🤣
+- 👯 Saya ingin berkolaborasi dengan pembuat konten lainnya
+- 🥅 Goals : Berkontribusi lebih banyak lagi di Open Source projects
+- ⚡ Fun fact: Saya suka coding dan Investasi dan Uang
 
 ### Gabung dengan saya di Sosial Media:
 

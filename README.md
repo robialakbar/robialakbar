@@ -1,14 +1,15 @@
-w### Halo Semua, Nama Saya robi al akbar -  [-][website] 👋 
+### Hi there, I'm robi al akbar - aka [-][website] 👋 
 
 [![Website](https://img.shields.io/website?label=robialakbar&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://robialakbar.com)
 [![Twitter Follow](https://img.shields.io/youtube/channel/subscribers/UCpMU9lkJdktgh4MumFTo9-A?label=145k%20Subscriber&style=social)](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)
 
-## Saya adalah seorang Professional Programmer, Youtuber and Technocrate!
+## I'm a Professional Programmer, Youtuber and Technocrate!!
 
-- 🌱 Saat ini saya sedang mempelajari semuanya 🤣
-- 👯 Saya ingin berkolaborasi dengan pembuat konten lainnya
-- 🥅 Goals : Berkontribusi lebih banyak lagi di Open Source projects
-- ⚡ Fun fact: Saya suka coding dan Investasi dan Uang
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to coding and Investment and Money
 
 ### Gabung dengan saya di Sosial Media:
 
@@ -49,6 +50,31 @@ w### Halo Semua, Nama Saya robi al akbar -  [-][website] 👋
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [🔴 DevOps.js Conference 2022 LIVE](https://www.youtube.com/watch?v=_WS_8Pi1WQs)
+- [EASY Minting dApp with WHITELISTING - Entire Process!! Launch an Entire NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
+- [UPDATED: Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
+- [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
+- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://robialakbar.com)
 
 ---
 
@@ -66,4 +92,8 @@ w### Halo Semua, Nama Saya robi al akbar -  [-][website] 👋
 [twitter]: https://twitter.com/robialakbar
 [youtube]: https://youtube.com/UCpMU9lkJdktgh4MumFTo9-A
 [instagram]: https://www.instagram.com/robialakbar.web_developer/
-
+[linkedin]: https://linkedin.com/in/robialakbar
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0

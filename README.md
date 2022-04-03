@@ -49,16 +49,6 @@
 
 ---
 
-### 📺 YouTube Videos
-
-➡️ [more videos...](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)
-
----
-
-### 📕 Latest Blog Posts
-
-
-➡️ [more blog posts...](https://robialakbar.com)
 
 ---
 

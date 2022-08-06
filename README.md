@@ -50,7 +50,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Video Youtube terbaru (Update Otomatis)
 
 <!-- YOUTUBE:START -->
 - [Buat Aplikasi Google Drive kita sendiri ? why not !](https://www.youtube.com/watch?v=SH50ifVV5CM)
@@ -64,7 +64,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Postingan Web terbaru (Update Otomatis)
 
 <!-- BLOG-POST-LIST:START -->
 - [HTML Dasar : Pendahuluan](https://robialakbar.com/html/html-dasar-pendahuluan/?utm_source=rss&utm_medium=rss&utm_campaign=html-dasar-pendahuluan)

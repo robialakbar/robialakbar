@@ -67,11 +67,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [HTML Dasar : Pendahuluan](https://robialakbar.com/html/html-dasar-pendahuluan/?utm_source=rss&utm_medium=rss&utm_campaign=html-dasar-pendahuluan)
+- [Aplikasi Silsilah Keluarga – Free Source Code](https://robialakbar.com/source-code/aplikasi-silsilah-keluarga-free-source-code/?utm_source=rss&utm_medium=rss&utm_campaign=aplikasi-silsilah-keluarga-free-source-code)
+- [Mempercantik Tampilan Visual Studio Code](https://robialakbar.com/artikel-terbaru/mempercantik-tampilan-visual-studio-code/?utm_source=rss&utm_medium=rss&utm_campaign=mempercantik-tampilan-visual-studio-code)
+- [Apa itu Programmer ?](https://robialakbar.com/artikel-terbaru/apa-itu-programmer/?utm_source=rss&utm_medium=rss&utm_campaign=apa-itu-programmer)
+- [APA ITU COMPOSER ? – Programming](https://robialakbar.com/artikel-terbaru/wwewe/?utm_source=rss&utm_medium=rss&utm_campaign=wwewe)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://robialakbar.com)

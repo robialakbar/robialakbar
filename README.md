@@ -50,7 +50,7 @@
 
 ---
 
-### ![YouTube](https://cdn.emojidex.com/emoji/xhdpi/YouTube.png "YouTube") Video Youtube terbaru (Update Otomatis)
+### ![YouTube](https://cdn.emojidex.com/emoji/hdpi/YouTube.png "YouTube") Video Youtube terbaru (Update Otomatis)
 
 <!-- YOUTUBE:START -->
 - [Buat Aplikasi Google Drive kita sendiri ? why not !](https://www.youtube.com/watch?v=SH50ifVV5CM)

@@ -1,15 +1,15 @@
-### Hi there, I'm robi al akbar - aka [-][website] 👋 
+### Hai semua, I'm robi al akbar - aka [-][website] 👋 
 
 [![Website](https://img.shields.io/website?label=robialakbar&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://robialakbar.com)
 [![Twitter Follow](https://img.shields.io/youtube/channel/subscribers/UCpMU9lkJdktgh4MumFTo9-A?label=145k%20Subscriber&style=social)](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)
 
-## I'm a Professional Programmer, Youtuber and Technocrate!!
+## I adalah seorang Professional Programmer, Youtuber and Technocrate!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to coding and Investment and Money
+- 🔭 Saya baru saja meluncurkan Kursus: [Menjadi Master HTML!][course]!
+- 🌱 Saat ini saya sedang mempelajari semuanya 🤣
+- 👯 Saya ingin berkolaborasi dengan Developer / Programmer lainnya
+- 🥅 2022 Goals: Berkontribusi lebih banyak untuk Open Source projects
+- ⚡ Fun fact: Saya suka coding dan Investasi dan Uang
 
 ### Gabung dengan saya di Sosial Media:
 

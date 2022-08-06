@@ -1,7 +1,7 @@
 ### Hai semua, Nama saya robi al akbar [-][website] 👨‍💻 
 
-[![Website](https://img.shields.io/website?label=robialakbar.com&style=social&url=https%3A%2F%2Frobialakbar.com)](https://robialakbar.com)
-[![Twitter Follow](https://img.shields.io/youtube/channel/subscribers/UCpMU9lkJdktgh4MumFTo9-A?label=Subscriber_robialakbar&style=social)](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)
+[![Website](https://img.shields.io/website?label=robialakbar.com&style=Fsocial&url=https%3A%2F%2Frobialakbar.com)](https://robialakbar.com)
+[![Twitter Follow](https://img.shields.io/youtube/channel/subscribers/UCpMU9lkJdktgh4MumFTo9-A?label=Subscriber_robialakbar&style=Fsocial)](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)
 
 ## Saya adalah seorang Professional Programmer, Youtuber and Technocrate!!
 

@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=robialakbar.com&style=Fsocial&url=https%3A%2F%2Frobialakbar.com)](https://robialakbar.com)
 [![Twitter Follow](https://img.shields.io/youtube/channel/subscribers/UCpMU9lkJdktgh4MumFTo9-A?label=Subscriber_robialakbar&style=Fsocial)](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)
-[![General badge](https://img.shields.io/badge/Gmail-D14836?label:style=Fsocial&logo=gmail&logoColor=white&label=E-mail_saya<robialakbar@gmail.com>)](mailto:robialakbar@gmail.com)
+[![General badge](https://img.shields.io/badge/Gmail-D14836?label:style=Fsocial&logo=gmail&logoColor=white&label=robialakbar@gmail.com)](mailto:robialakbar@gmail.com)
 
 ## Saya adalah seorang Professional Programmer, Youtuber and Technocrate!!
 

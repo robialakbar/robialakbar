@@ -72,9 +72,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [HTML Dasar : Pendahuluan](https://robialakbar.com/html/html-dasar-pendahuluan/)
 - [Aplikasi Silsilah Keluarga – Free Source Code](https://robialakbar.com/source-code/aplikasi-silsilah-keluarga-free-source-code/)
-- [Mempercantik Tampilan Visual Studio Code](https://robialakbar.com/artikel-terbaru/mempercantik-tampilan-visual-studio-code/)
 - [Apa itu Programmer ?](https://robialakbar.com/artikel-terbaru/apa-itu-programmer/)
 - [APA ITU COMPOSER ? – Programming](https://robialakbar.com/artikel-terbaru/wwewe/)
+- [Aplikasi E-Dompet Monitoring Pengeluaran dan Pendapatan](https://robialakbar.com/source-code/aplikasi-e-dompet-monitoring-pengeluaran-dan-pendapatan/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://robialakbar.com)

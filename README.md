@@ -70,11 +70,11 @@
 ### 📕 Postingan Web terbaru (Update Otomatis)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aplikasi Point Of Sale PHP Native – Gratis](https://robialakbar.com/source-code/aplikasi-point-of-sale-php-native-gratis/)
 - [HTML Dasar : Pendahuluan](https://robialakbar.com/html/html-dasar-pendahuluan/)
 - [Aplikasi Silsilah Keluarga – Free Source Code](https://robialakbar.com/source-code/aplikasi-silsilah-keluarga-free-source-code/)
 - [Apa itu Programmer ?](https://robialakbar.com/artikel-terbaru/apa-itu-programmer/)
 - [APA ITU COMPOSER ? – Programming](https://robialakbar.com/artikel-terbaru/wwewe/)
-- [Aplikasi E-Dompet Monitoring Pengeluaran dan Pendapatan](https://robialakbar.com/source-code/aplikasi-e-dompet-monitoring-pengeluaran-dan-pendapatan/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://robialakbar.com)

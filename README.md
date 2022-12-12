@@ -56,11 +56,11 @@
 ### ![YouTube](https://cdn.emojidex.com/emoji/hdpi/YouTube.png "YouTube") Video Youtube terbaru (Update Otomatis)
 
 <!-- YOUTUBE:START -->
-- [merapikan codingan](https://www.youtube.com/watch?v=hgVqOOcWsVg)
 - [Aplikasi Point Of Sale &lpar;POS&rpar;  PHP native - by robialakbar GRATIS](https://www.youtube.com/watch?v=_MQnnxqI_cc)
 - [Buat Aplikasi Google Drive kita sendiri ? why not !](https://www.youtube.com/watch?v=SH50ifVV5CM)
 - [Aplikasi Silsilah Keluarga- by robialakbar GRATIS](https://www.youtube.com/watch?v=mAxWlYjJm-o)
 - [Aplikasi E-Dompet Monitoring Pengeluaran dan Pendapatan - by robialakbar GRATIS](https://www.youtube.com/watch?v=fywVZV0tIgk)
+- [Sistem Aplikasi Pemilihan Ketua Osis &lpar; SIPesis &rpar; - by robialakbar GRATIS](https://www.youtube.com/watch?v=6AgRWGJaCwk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)

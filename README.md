@@ -32,7 +32,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="CSS3" width="26px" height="30px" src="https://camo.githubusercontent.com/3b2138f60fe3323a1bba533aebfdf395a835dda597e03b3fdc65538d85aa7d2a/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f7068702f7068705f504e4732302e706e67" />][cssplaylist]
+[<img align="left" alt="CSS3" width="26px" height="26px" src="https://camo.githubusercontent.com/3b2138f60fe3323a1bba533aebfdf395a835dda597e03b3fdc65538d85aa7d2a/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f7068702f7068705f504e4732302e706e67" />][cssplaylist]
 [<img align="left" alt="Electron" width="26px" src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]

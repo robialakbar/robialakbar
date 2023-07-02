@@ -46,7 +46,6 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/lordbasex/docker/master/docker-logo.png" />][webdevplaylist]
 
 <br />
----
 <br />
 
 

@@ -1,4 +1,4 @@
-# This is a Bash comment#
+#This is a Bash comment
 
 ### Hai semua, Nama saya robi al akbar [-][website] 👨‍💻 
 

@@ -1,3 +1,6 @@
+# This is a Bash comment.
+echo "This is Code" # This is an inline Bash comment.
+
 ### Hai semua, Nama saya robi al akbar [-][website] 👨‍💻 
 
 [![Website](https://img.shields.io/website?label=robialakbar.com&style=Fsocial&url=https%3A%2F%2Frobialakbar.com)](https://robialakbar.com)

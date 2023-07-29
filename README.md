@@ -1,5 +1,7 @@
-#This is a Bash comment
-
+<!---
+your comment goes here
+and here
+-->
 ### Hai semua, Nama saya robi al akbar [-][website] 👨‍💻 
 
 [![Website](https://img.shields.io/website?label=robialakbar.com&style=Fsocial&url=https%3A%2F%2Frobialakbar.com)](https://robialakbar.com)

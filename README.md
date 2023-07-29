@@ -1,7 +1,6 @@
 <!---
-your comment goes here
-and here
--->
+
+
 ### Hai semua, Nama saya robi al akbar [-][website] 👨‍💻 
 
 [![Website](https://img.shields.io/website?label=robialakbar.com&style=Fsocial&url=https%3A%2F%2Frobialakbar.com)](https://robialakbar.com)
@@ -107,3 +106,5 @@ and here
 [cssplaylist]: https://www.youtube.com/c/robialakbar/playlists
 [reactplaylist]: https://www.youtube.com/c/robialakbar/playlists
 [github]: https://github.com/robialakbar
+
+-->

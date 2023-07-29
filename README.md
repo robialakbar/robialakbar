@@ -1,5 +1,4 @@
 # This is a Bash comment.
-echo "This is Code" # This is an inline Bash comment.
 
 ### Hai semua, Nama saya robi al akbar [-][website] 👨‍💻 
 

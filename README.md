@@ -3,7 +3,7 @@ s### Halo Semua, Nama Saya robi al akbar -  [-][website] 👋
 [![Website](https://img.shields.io/website?label=robialakbar&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://robialakbar.com)
 [![Twitter Follow](https://img.shields.io/youtube/channel/subscribers/UCpMU9lkJdktgh4MumFTo9-A?label=145k%20Subscriber&style=social)](https://www.youtube.com/channel/UCpMU9lkJdktgh4MumFTo9-A)
 
-## Saya adalah seorang Professional Programmer, Youtuber and Technocrate!
+## Saya adalah seorang Professional Programmer, Youtuber, Techinician and Technocrate!
 
 - 🌱 Saat ini saya sedang mempelajari semuanya 🤣
 - 👯 Saya ingin berkolaborasi dengan pembuat konten lainnya
